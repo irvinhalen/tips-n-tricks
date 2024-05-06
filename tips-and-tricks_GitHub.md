@@ -9,7 +9,7 @@
 
 - Web
     1. Click on the Repositories tab
-    2. Click New
+    2. Click on New
 
 - Local
 1. Create a project
