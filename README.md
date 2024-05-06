@@ -1,6 +1,6 @@
 # 🍆 Tips & Tricks 🎃
 
-> Welcome to 💣 **T&T**!
+> Welcome to 💣 **T&T** 💥!
 
 ## 💣 T&T 💥
 
