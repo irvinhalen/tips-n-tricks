@@ -5,7 +5,7 @@
 
 ## Getting Started
 
-### New Laravel Project
+### New Project
 
 - Create a new project with *example-project* being the name of your choice
 ```
@@ -43,7 +43,6 @@ php artisan make:model Post
 ```
 php artisan make:controller UserController
 ```
-2. TestTickles
 
 ## Route
 
@@ -58,8 +57,8 @@ php artisan install:api
 
 ### Database Connection
 
-1. locate the .env file and open it
-2. find these variables and change them accordingly
+1. Locate the .env file and open it
+2. Find these variables and change them accordingly
 ```
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
@@ -71,12 +70,12 @@ DB_PASSWORD=password
 
 ### Migrations
 
-- create migration
+- Creating migrations
   1. run this command with *table_name* being the table name of your choice
   ```
   php artisan make:migration create_table_name
   ```
-- running migration
+- Running migrations
   1. run this command
   ```
   php artisan migrate
@@ -84,7 +83,7 @@ DB_PASSWORD=password
 
 ### Seeding
 
-- creating seeders
+- Creating seeders
   1. run this command with *NameSeeder* being the seeder name of your choice
   ```
   php artisan make: seeder NameSeeder
