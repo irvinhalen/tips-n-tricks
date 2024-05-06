@@ -5,7 +5,7 @@
 
 ## Getting Started
 
-### New React Project
+### New Project
 
 1. Create a new project using ⚡ Vite
     ```
