@@ -8,15 +8,15 @@
 ### New Project
 
 - Create a new project with *example-project* being the name of your choice
-```
+```sh
 composer create-project laravel/laravel example-project
 ```
 - Change directory to the newly created project
-```
+```sh
 cd example-project
 ```
 - Run the project
-```
+```sh
 php artisan serve --host=0.0.0.0 --port=3001
 ```
 
@@ -26,7 +26,7 @@ php artisan serve --host=0.0.0.0 --port=3001
 ### Creating Models
 
 1. Run command
-```
+```sh
 php artisan make:model Post
 ```
 
@@ -40,7 +40,7 @@ php artisan make:model Post
 ### Creating Controllers
 
 1. Run command
-```
+```sh
 php artisan make:controller UserController
 ```
 
@@ -49,7 +49,7 @@ php artisan make:controller UserController
 ### api.php
 
 1. Run command
-```
+```sh
 php artisan install:api
 ```
 
@@ -72,19 +72,19 @@ DB_PASSWORD=password
 
 - Creating migrations
   1. run this command with *table_name* being the table name of your choice
-  ```
-  php artisan make:migration create_table_name
-  ```
+```sh
+php artisan make:migration create_table_name
+```
 - Running migrations
   1. run this command
-  ```
-  php artisan migrate
-  ```
+```sh
+php artisan migrate
+```
 
 ### Seeding
 
 - Creating seeders
   1. run this command with *NameSeeder* being the seeder name of your choice
-  ```
-  php artisan make: seeder NameSeeder
-  ```
+```sh
+php artisan make: seeder NameSeeder
+```
