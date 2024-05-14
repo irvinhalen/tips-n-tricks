@@ -8,9 +8,11 @@ Tips & Tricks are my notes to help me get started on creating projects and also 
 
 I have Tips & Tricks for the following:
 - 🐈‍⬛ GitHub
+- 🐧 Linux
+- 🐍 Python
+- 🐳 Docker
 - ⚛️ React
 - 📦 Laravel
-- 🐳 Docker
 
 
 ## 🥜 TestTickles 💎
