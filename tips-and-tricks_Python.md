@@ -5,21 +5,33 @@
 
 ## Getting Started
 
-### Environment
+### Environment with 🐍 Anaconda
 
-1. Create environment with 🐍 Anaconda
+- Create environment
     - -n flag stands for name
     - you can specify the version of Python
 ```sh
 conda create -n environment_name python=3.11.7 anaconda
 ```
-2. Activate environment
+- Activate environment
 ```sh
 conda activate environment_name
 ```
-3. Deactivate environment
+- Deactivate environment
 ```sh
 conda deactivate
+```
+- Export environment
+    - | grep -v "^prefix: " excludes the prefix line from the yaml file
+        - | stands for pipe
+        - -v stands for invert
+        - \> stands for redirecting output
+```sh
+conda env export | grep -v "^prefix: " > environment_name.yml
+```
+- Create environment from yaml file
+```sh
+conda env create -f environment_name.yml
 ```
 
 ### New Project
