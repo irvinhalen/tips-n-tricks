@@ -14,8 +14,7 @@ I have Tips & Tricks for the following:
 - ⚛️ React
 - 📦 Laravel
 
-
 ## 🥜 TestTickles 💎
 
 TT 🍆 for short 🤏.\
-This is the act of testing one's self with tips and tickling one's brain with tricks.
+This is the act of testing one's self with tips and tickling one's brain with tricks or treats.
