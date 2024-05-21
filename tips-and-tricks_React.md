@@ -25,5 +25,5 @@ npm run dev
 
 - useState
 ```ts
-const [count, useCount] = <number>(0);
+const [count, setCount] = <number>(0);
 ```
