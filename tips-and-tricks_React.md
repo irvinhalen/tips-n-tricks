@@ -20,3 +20,10 @@ cd example-project
 ```sh
 npm run dev
 ```
+
+### Hooks
+
+- useState
+```ts
+const [count, useCount] = <number>(0);
+```
