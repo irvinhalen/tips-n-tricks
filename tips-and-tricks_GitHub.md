@@ -23,3 +23,15 @@ git branch -M main
 git remote add origin https://github.com/username/example-project.git
 git push -u origin main
 ```
+
+### Commands
+
+- Push
+```sh
+git push -u origin main
+```
+
+- Pull
+```sh
+git pull
+```
