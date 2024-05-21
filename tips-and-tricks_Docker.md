@@ -45,8 +45,12 @@
     docker system prune --volumes
     ```
 
+- Docker Desktop
+    - Docker Desktop uses docker-compose instead of docker compose
+
 - Others
     - Executing commands from service (for example you installed an npm package on the frontend then you need to use the command below to npm install)
     ```sh
     docker compose exec nameOfService command
     ```
+
