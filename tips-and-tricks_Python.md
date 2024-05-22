@@ -44,9 +44,14 @@ python Project.py
 
 ### Requirements
 
-1. Install the requirements from the text file
+- Install the requirements from a text file
     - -r flag stands for requirement
     - requirements.txt is the name of the text file
 ```sh
 pip install -r requirements.txt
+```
+
+- Listing the requirements from your app to a text file
+```sh
+pip freeze > requirements.txt
 ```
