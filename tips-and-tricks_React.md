@@ -27,3 +27,10 @@ npm run dev
 ```ts
 const [count, setCount] = <number>(0);
 ```
+
+- useEffect
+```ts
+useEffect((props) => {
+    //code
+}, [dependency]);
+```
