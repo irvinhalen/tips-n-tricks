@@ -29,8 +29,13 @@ const [count, setCount] = <number>(0);
 ```
 
 - useEffect
-```ts
+```js
 useEffect((props) => {
     //code
 }, [dependency]);
+```
+
+- useRef
+```ts
+const count = useRef<number>(0);
 ```
