@@ -24,6 +24,7 @@ npm run dev
 ### Hooks
 
 - useState
+    - This hook allows you to save states
 ```ts
 const [count, setCount] = <number>(0);
 ```
