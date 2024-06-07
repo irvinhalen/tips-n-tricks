@@ -30,6 +30,8 @@ const [count, setCount] = <number>(0);
 ```
 
 - useEffect
+    - This hook takes effect based on the dependency
+        - The dependency may be left blank and the hook will instead run when the component is ready
 ```js
 useEffect((props) => {
     //code
