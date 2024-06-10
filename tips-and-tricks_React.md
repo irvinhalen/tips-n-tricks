@@ -39,6 +39,7 @@ useEffect((props) => {
 ```
 
 - useRef
+    - This hook can be used to access a DOM element directly
 ```ts
 const count = useRef<number>(0);
 ```
