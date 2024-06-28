@@ -1,22 +1,22 @@
-# 🍆 Tips & Tricks 🎃
+# 🍆 Tips 'n' Tricks 🎃
 
-> Welcome to 💣 **T&T** 💥!
+> Welcome to 💣 **TNT** 💥!
 
 
-## 💣 T&T 💥
+## 💣 TNT 💥
 
-Tips & Tricks are my notes to help me get started on creating projects and also other useful tidbits about the technologies involved.
+Tips 'n' Tricks are my notes to help me get started on creating projects and also other useful tidbits about the technologies involved.
 
 ### conTNT
 
 glyph | enchiridion
 -|-
-🐈‍⬛ | [GitHub](./tips-and-tricks_GitHub.md#-tips--tricks-)
-🐧 | [Linux](./tips-and-tricks_Linux.md#-tips--tricks-)
-🐍 | [Python](./tips-and-tricks_Python.md#-tips--tricks-)
-🐳 | [Docker](./tips-and-tricks_Docker.md#-tips--tricks-)
-⚛️ | [React](./tips-and-tricks_React.md#-tips--tricks-)
-📦 | [Laravel](./tips-and-tricks_Laravel.md#-tips--tricks-)
+🐈‍⬛ | [GitHub](./tips-n-tricks_GitHub.md#-tips-n-tricks-)
+🐧 | [Linux](./tips-n-tricks_Linux.md#-tips-n-tricks-)
+🐍 | [Python](./tips-n-tricks_Python.md#-tips-n-tricks-)
+🐳 | [Docker](./tips-n-tricks_Docker.md#-tips-n-tricks-)
+⚛️ | [React](./tips-n-tricks_React.md#-tips-n-tricks-)
+📦 | [Laravel](./tips-n-tricks_Laravel.md#-tips-n-tricks-)
 
 
 ## 🥜 TestTickles 💎
