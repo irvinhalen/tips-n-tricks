@@ -1,6 +1,6 @@
 # 🍆 Tips 'n' Tricks 🎃
 
-> Welcome to 💣 **TNT** 💥!
+Welcome to 💣 **TNT** 💥!
 
 
 ## 💣 TNT 💥
@@ -19,7 +19,13 @@ glyph | enchiridion
 📦 | [Laravel](./tips-n-tricks_Laravel.md#-tips-n-tricks-)
 
 
-## 🥜 TestTickles 💎
+## 🍆 Dicktionary
+
+- 🥜 TestTickles 💎
 
 TT 🍆 for short 🤏.\
 This is the act of testing one's self with tips and tickling one's brain with tricks or treats.
+
+- 🥜 Nutting
+
+When you use too much of your head 🍓 to think and cum 💦 up with nutting.
