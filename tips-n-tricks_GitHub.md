@@ -1,6 +1,6 @@
 # 🍆 Tips 'n' Tricks 🎃
 
-> This one is for 🐈‍⬛ *GitHub*
+This one is for 🐈‍⬛ *GitHub*
 
 
 ## Getting Started
