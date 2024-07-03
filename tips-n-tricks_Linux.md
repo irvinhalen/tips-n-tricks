@@ -1,6 +1,6 @@
 # 🍆 Tips 'n' Tricks 🎃
 
-> This one is for 🐧 *Linux*
+This one is for 🐧 *Linux*
 
 
 ## Getting Started
