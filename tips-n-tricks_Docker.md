@@ -1,6 +1,6 @@
 # 🍆 Tips 'n' Tricks 🎃
 
-> This one is for 🐳 *Docker*
+This one is for 🐳 *Docker*
 
 
 ## Getting Started
