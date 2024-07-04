@@ -1,6 +1,6 @@
 # 🍆 Tips 'n' Tricks 🎃
 
-> This one is for 🐍 *Python*
+This one is for 🐍 *Python*
 
 
 ## Getting Started
