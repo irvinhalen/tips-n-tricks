@@ -36,7 +36,7 @@ conda env create -f environment_name.yml
 
 ### New Project
 
-1. Create a file with the extension .py for example: ```Project.py```
+1. Create a file with the extension .py for example: `Project.py`
 2. Run the code
 ```sh
 python Project.py
