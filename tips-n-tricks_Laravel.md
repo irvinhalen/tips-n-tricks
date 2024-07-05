@@ -1,6 +1,6 @@
 # 🍆 Tips 'n' Tricks 🎃
 
-> This one is for 📦 *Laravel*
+This one is for 📦 *Laravel*
 
 
 ## Getting Started
