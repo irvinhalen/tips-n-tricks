@@ -1,6 +1,6 @@
 # 🍆 Tips 'n' Tricks 🎃
 
-> This one is for ⚛️ *React*
+This one is for ⚛️ *React*
 
 
 ## Getting Started
