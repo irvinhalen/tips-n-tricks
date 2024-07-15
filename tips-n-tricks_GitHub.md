@@ -24,7 +24,7 @@ git remote add origin https://github.com/username/example-project.git
 git push -u origin main
 ```
 
-### Commands
+### Synchronization
 
 - Push
 ```sh
@@ -34,4 +34,32 @@ git push -u origin main
 - Pull
 ```sh
 git pull
+```
+
+### Configuration
+
+- Username
+    - remove `--global` flag if you want to configure username on a local repository
+    - replace `<username>` with the username of your choice
+```sh
+git config --global user.name "<username>"
+```
+
+- Username Confirmation
+    - remove `--global` flag if you want to view the configured username of a local repository
+```sh
+git config --global user.name
+```
+
+- Email
+    - remove `--global` flag if you want to configure email on a local repository
+    - replace `<email>` with the email of your choice
+```sh
+git config --global user.email "<email>"
+```
+
+- Email Confirmation
+    - remove `--global` flag if you want to view the configured email of a local repository
+```sh
+git config --global user.email
 ```
