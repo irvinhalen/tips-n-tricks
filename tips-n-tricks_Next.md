@@ -28,4 +28,11 @@ pnpm dev
 
 ### Path
 
-
+1. Create a folder
+2. Create a new file inside the created folder
+3. Name the file page.tsx
+```ts
+export default function Page() {
+    return <p>Dashboard Page</p>;
+}
+```
