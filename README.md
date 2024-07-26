@@ -15,8 +15,9 @@ glyph | enchiridion
 🐧 | [Linux](./tips-n-tricks_Linux.md#-tips-n-tricks-)
 🐍 | [Python](./tips-n-tricks_Python.md#-tips-n-tricks-)
 🐳 | [Docker](./tips-n-tricks_Docker.md#-tips-n-tricks-)
-⚛️ | [React](./tips-n-tricks_React.md#-tips-n-tricks-)
 📦 | [Laravel](./tips-n-tricks_Laravel.md#-tips-n-tricks-)
+⏭️ | [Next](./tips-n-tricks_Next.md#-tips-n-tricks-)
+⚛️ | [React](./tips-n-tricks_React.md#-tips-n-tricks-)
 
 
 ## 🍆 Dicktionary
