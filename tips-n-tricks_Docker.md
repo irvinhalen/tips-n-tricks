@@ -7,7 +7,7 @@ This one is for 🐳 *Docker*
 
 ### Dockerfile
 
-- Manually create Dockerfiles with the filename "Dockerfile" for each application (frontend and backend)
+- Manually create "Dockerfile" files for each application (frontend and backend)
 
 
 ## Commands
@@ -53,4 +53,3 @@ This one is for 🐳 *Docker*
     ```sh
     docker compose exec nameOfService command
     ```
-
